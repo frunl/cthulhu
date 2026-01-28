@@ -11,7 +11,3 @@ This repository is used to record, triage, and discuss issues and feature reques
 - Open an issue with clear steps to reproduce, expected behavior, and actual behavior.
 - Include relevant environment details (OS, version, CLI version).
 - For feature requests, describe the use case and desired outcome.
-
-## Links
-
-- cthulhu-cli: https://github.com/frunl/cthulhu-cli
